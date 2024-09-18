@@ -2,6 +2,7 @@ name: talkjs_flutter
 description: Official TalkJS SDK for Flutter
 version: 0.13.0
 homepage: https://talkjs.com
+publish_to: none
 
 environment:
   sdk: '>=2.19.0 <4.0.0'
